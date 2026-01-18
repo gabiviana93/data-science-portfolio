@@ -1,7 +1,16 @@
 # Sobre mim
 
-Atuo como Cientista de Dados com experiência em projetos aplicados a problemas reais,
-participando de testes técnicos e desafios de modelagem em contextos corporativos.
+Sou **Cientista de Dados** apaixonada por transformar dados em insights acionáveis. 
 
-Tenho foco em organização, clareza técnica e entrega de soluções utilizáveis,
-priorizando boas práticas de validação e código limpo.
+Trabalho em **projetos aplicados a problemas reais**, desde análises exploratórias até modelagem preditiva, participando de testes técnicos e desafios corporativos que exigem criatividade e dedicação.
+
+## 🎯 O que me motiva
+
+- **Entrega de valor** – Soluções que fazem diferença no negócio
+- **Clareza técnica** – Código limpo, documentado e reproducível
+- **Boas práticas** – Validação rigorosa com testes unitários e padrões de qualidade
+- **Aprendizado contínuo** – Sempre explorando novas técnicas e ferramentas
+
+## 💡 Minha abordagem
+
+Combino **curiosidade analítica** com **dedicação** para resolver desafios de dados. Priorizo entender o problema antes de escolher a ferramenta certa
