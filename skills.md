@@ -15,7 +15,8 @@
 - Python
 - Pandas, NumPy
 - Scikit-learn
-- XGBoost
 - Git/GitHub
+- VSCode, Cursor 
 - Serviços GCP (BigQuery, FileStorage)
 - Serviços AWS (Sagemaker, S3 Bucket)
+- Chat GPT e ferramentas de IA do Mercado Livre
